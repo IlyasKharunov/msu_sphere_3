@@ -1,0 +1,3 @@
+download needed data (train and test data)
+%run rf.py -tr spam.train.txt -te spam.test.txt will run RF, neural network and knn algorythm and print their scores
+python rf.py -f True will start finding best treecount and feature percent as well as draw the plot
